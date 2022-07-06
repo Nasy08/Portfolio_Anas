@@ -1,0 +1,39 @@
+.picthero{
+    border-radius: 50px;
+    width: 600px;
+    height: 700px;
+}
+.pic-abt{
+    border-radius: 30px;
+}
+.heroes-text{
+    color: black;
+    font-size: 28px;
+    padding: 10px 10px;
+}
+.heroes-contain{
+    background-image: url("../img/bg-heroes.jpg");
+}
+.bg-heroes-text{
+    background-color: #FFFF;
+    border-radius: 15px;
+    /* padding-right: 70px;
+    padding-left: 10px;
+    padding-top: 60px; */
+    padding-bottom: 20px;
+}
+.text-heroes{
+    padding-right: 60px;
+    padding-left: 0;
+    padding-top: 60px;
+}
+.lead{
+    text-align: left;
+    padding-top: 30px;
+}
+body{
+    background-color: #2e77e4;
+}
+.change-color{
+    color: orange;
+}

@@ -1,0 +1,22 @@
+  .nav-item{
+    height: 50px;
+  }
+  .navbar-brand {
+    background-image: url("../img/logo brand.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: rgba(180, 190, 203, 0.4);
+  }
+
+  .nav-link:hover{
+    color: rgb(0, 110, 255);
+    border-bottom: 5px solid rgb(0, 110, 255);
+  }
+
+
